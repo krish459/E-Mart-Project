@@ -1,0 +1,42 @@
+#top1{
+    background-color: green;
+}
+#logo img {
+    display: inline-block;
+    position: absolute;
+    left: 32px;
+    top: 23px;
+    background-color: white;
+    width: 286px;
+    height: 109px;
+}
+
+
+#search {
+    height: 92px;
+    width: 1369px;
+    margin: 32px auto;
+    text-align: center;
+}
+input{
+    height: 47px;
+    width: 624px;
+    margin: -2px auto;
+    text-align: center;
+    font-size: 42px;
+    border: 2px solid black;
+
+}
+svg{
+    height: 61px;
+    width: 61px;
+}
+
+#bag img{
+    display: inline-block;
+    position: absolute;
+    right: 34px;
+    top: -7px;
+    height: 154px;
+    width: 154px;
+}
